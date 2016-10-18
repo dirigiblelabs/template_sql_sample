@@ -1,5 +1,5 @@
 {
-    "name":"Sample Query Service (SQL)",
+    "name":"Query Service (SQL)",
     "description":"SQL sample query service",
     "image":"sql-service.png",
     "sources":[
