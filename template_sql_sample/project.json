@@ -1,0 +1,8 @@
+{
+    "guid": "template_sql_sample",
+    "repository": {
+        "type": "git",
+        "branch": "master",
+        "url": "https://github.com/dirigiblelabs/template_sql_sample.git"
+    }
+}
